@@ -51,6 +51,6 @@ ul.posts li {
 }
 
 .art {
-    margin-left: 1.5em;
     color: #29307B;
+    font-style: italic;
 }
