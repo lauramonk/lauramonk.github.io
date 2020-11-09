@@ -49,3 +49,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+table.first-column > tbody > tr > td:nth-of-type(1) {
+  font-size: larger;
+  text-decoration: bold;
+}
