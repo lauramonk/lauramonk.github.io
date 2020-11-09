@@ -31,7 +31,7 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #DC143C;
 }
-ul, ol, p {
+ul, ol, p, table {
     font-size: 1.3em;
     line-height: 1.2em;
     color: #333;
