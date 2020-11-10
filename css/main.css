@@ -61,7 +61,7 @@ td, th {
     padding: 5px;
 }
 
-td:nth-child(3) {
+td:nth-child(n+3) {
 vertical-align:middle;
 }
 
