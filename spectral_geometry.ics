@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ZContent.net//Zap Calendar 1.0//EN
+PRODID:Spectral geometry in the clouds Event Calendar 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
 BEGIN:VEVENT
-SUMMARY:Nelia Charalambous
+SUMMARY:Nelia Charalambous: The form spectrum of open manifolds
 UID:20220307T170000Z-Nelia-Charalambous-0
 DTSTART:20220307T170000Z
 DTEND:20220307T180000Z
-DESCRIPTION:The form spectrum of open manifolds
+DESCRIPTION:
 URL:https://archimede.mat.ulaval.ca/agirouard/SpectralClouds/2022/March7/March7.pdf
 END:VEVENT
 
